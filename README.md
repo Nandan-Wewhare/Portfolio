@@ -1,5 +1,5 @@
 # Portfolio
 
-My Professional Website made with Flutter and <3
+My Professional Website made with Flutter.
 
 Active at -- https://nandan-wewhare.github.io/Portfolio/
